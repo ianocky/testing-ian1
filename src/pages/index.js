@@ -47,7 +47,7 @@ export default function Page() {
         <div className="container">
           <section className="hero text-center">
             <Heading className={styles.heading} level="h1">
-              Welcome to your My Atlas Testing Site
+              Welcome to My Atlas Testing Site
             </Heading>
             <p className={styles.description}>
               Achieve unprecedented performance with modern frameworks and the
@@ -55,7 +55,7 @@ export default function Page() {
             </p>
             <div className={styles.actions}>
               <Button styleType="secondary" href="/contact-us">
-                GET STARTED
+                CLICK HERE
               </Button>
               <Button styleType="primary" href="/about">
                 LEARN MORE
