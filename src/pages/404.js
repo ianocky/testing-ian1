@@ -22,9 +22,7 @@ export default function Page() {
         <EntryHeader title="Not found, error 404" />
         <div className="container small">
           <p className="text-center">
-            Oops, the page you are looking for does not exist or is no longer
-            available. Everything is still awesome. Just use the search form to
-            find your way.
+Where is it gone            find your way.
           </p>
 
           <form
