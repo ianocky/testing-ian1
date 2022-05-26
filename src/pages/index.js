@@ -28,7 +28,7 @@ export default function Page() {
     },
   });
   const mainBanner = {
-    sourceUrl: '/static/banner.jpeg',
+    sourceUrl: '/static/atlasimage.jpeg',
     mediaDetails: { width: 1200, height: 600 },
     altText: 'Blog Banner',
   };
@@ -47,7 +47,7 @@ export default function Page() {
         <div className="container">
           <section className="hero text-center">
             <Heading className={styles.heading} level="h1">
-              Welcome to your Blueprint
+              Welcome to your My Atlas Testing Site
             </Heading>
             <p className={styles.description}>
               Achieve unprecedented performance with modern frameworks and the
