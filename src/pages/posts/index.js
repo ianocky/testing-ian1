@@ -52,7 +52,7 @@ export default function Page() {
       <Header />
 
       <Main>
-        <EntryHeader title="Latest Posts" />
+        <EntryHeader title="New Posts" />
         <div className="container">
           <Posts posts={data?.nodes} id="posts-list" />
           <LoadMore
@@ -66,6 +66,7 @@ export default function Page() {
       </Main>
 
       <Footer />
+Add Footer Here
     </>
   );
 }
