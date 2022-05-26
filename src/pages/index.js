@@ -28,7 +28,7 @@ export default function Page() {
     },
   });
   const mainBanner = {
-    sourceUrl: '/public/static/atlasimage.jpeg',
+    sourceUrl: '/public/static/abstract-paper-free-photo-1175904.jpg',
     mediaDetails: { width: 1200, height: 600 },
     altText: 'Blog Banner',
   };
