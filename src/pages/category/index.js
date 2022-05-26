@@ -26,10 +26,10 @@ export default function Page() {
       <Header />
 
       <Main>
-        <EntryHeader title="All Categories" />
+        <EntryHeader title="Ians Catergories" />
         <div className="container">
           <div className="content">
-            <h1>All Categories</h1>
+            <h1>Choose 1</h1>
             <ul>
               {categories?.nodes?.map(({ id, name, uri }) => {
                 return (
